@@ -9,7 +9,7 @@ Let me tell you something.
 Setiap masa ada orangnya dan setiap orang ada masanya.  
 And not only that,.. setiap masa ada cinta.
 
-![Topi Y!](/images/topi-yahoo.jpeg "Topi Yahoo.")
+![Topi Y!](/topi-yahoo.jpeg "Topi Yahoo.")
 
 Happy birthday to me.  
 Aku mengenal diriku lebih dari apa yang orang lain ketahui tentang aku, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
