@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Today is my b'day!"
 date:   2025-05-22 07:56:23 +0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Let me tell you something.   
+**Today is my b'day.**  
+Setiap masa ada orangnya dan setiap orang ada masanya.  
+And not only that,.. setiap masa ada cinta.
 
-Jekyll requires blog post files to be named according to the following format:
+![Topi Y!](/images/topi-yahoo.jpeg "Topi Yahoo.")
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Happy birthday to me.  
+Aku mengenal diriku lebih dari apa yang orang lain ketahui tentang aku, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
