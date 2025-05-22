@@ -9,7 +9,7 @@ Let me tell you something.
 **Today is my b'day.**  
 Setiap masa ada orangnya dan setiap orang ada masanya.  
 And not that only that,.. setiap masa ada cintanya, meskipun jauh,..  
-tenggelam di dalam hati.
+“tenggelam di dalam hati“ —
 
 ![Topi Y!](/topi-yahoo.jpeg "Topi Yahoo.")
 
