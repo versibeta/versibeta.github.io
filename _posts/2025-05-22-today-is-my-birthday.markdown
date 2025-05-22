@@ -3,6 +3,7 @@ layout: post
 title:  "Today is my b'day!"
 date:   2025-05-22 07:56:23 +0700
 categories: jekyll update
+image: /beta.jpg
 ---
 Let me tell you something.   
 **Today is my b'day.**  
