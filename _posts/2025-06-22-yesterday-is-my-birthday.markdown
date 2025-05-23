@@ -3,6 +3,7 @@ layout: post
 title:  "Yesterday is my b'day!"
 date:   2025-05-23 08:07:11 +0700
 categories: jekyll update
+image: https://versibeta.github.io/tobeni.jpg
 ---
 **H+1: RELEASE**
 
