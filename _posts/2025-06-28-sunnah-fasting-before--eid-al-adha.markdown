@@ -10,12 +10,6 @@ Penampakan hilal Idul Adha 2025L  ANGSUNG:
 Umat Islam di Arab Saudi, UEA, AS, Inggris, dan Eropa bersiap melihat hilal Dzulhijjah 1446 H saat ini untuk menuntaskan tanggal haji dan Idul Adha/Idul Bakri/Idul Zuha. (Foto Arsip)  
 ![Topi Y!](/eid-moon.jpeg "eid mubarak.")  
 
-
-
-
-*Menerbitkan rilis patch untuk memulihkan perilaku yang ada seputar pendefinisian default materi depan dimana cakupan dengan jalur yang berisi pola glob lemah dalam mencocokkan jalur pada disk.*
-
-
 Free hosting with GitHub Pages.  
 GitHub Pages is powered by Jekyll, so you can easily deploy your site using GitHub for free—custom domain name and all.
 
