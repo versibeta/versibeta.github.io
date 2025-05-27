@@ -63,7 +63,7 @@ Bacaan Niat Puasa Arafah
 “Nawaitu shauma arafata sunnatan lillahi ta’ala.”  
 Artinya: “Saya niat puasa sunnah Arafah karena Allah ta’ala.” Niat ini dibaca pada malam hari sebelum masuk waktu subuh, atau boleh juga dibaca di siang hari sebelum tergelincir matahari (waktu zuhur) jika lupa berniat di malam hari.   
 
-Oya, tulisan ini menyadur dari berbagai sumber referensi.    
+Oya, __tulisan ini ditulis dalam pembelajaran_ dan menyadur dari berbagai sumber referensi.    
 Terimakasih untuk membaca.  
 
 Free hosting with GitHub Pages.  
