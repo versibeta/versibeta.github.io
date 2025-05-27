@@ -15,14 +15,17 @@ Umat Islam di Arab Saudi, UEA, AS, Inggris, dan Eropa bersiap melihat hilal Dzul
 saat ini untuk menuntaskan tanggal haji dan Idul Adha/Idul Bakri/Idul Zuha.    
 ![Puasa!](/eid-mubarak.jpeg "eid mubarak") 
 
-Puasa Sunnah sebelum Iduladha
+Puasa Sunnah sebelum Iduladha  
 Menjelang Iduladha, umat Islam dianjurkan melaksanakan puasa sunnah. Puasa ini memiliki banyak keutamaan dan menjadi amalan yang sangat dianjurkan.vDalam Islam, ada banyak cara yang bisa dilakukan untuk memperoleh pahala. Termasuk puasa sunnah sebelum Iduladha.
 
-Ada tiga jenis, puasa sunnah yang bisa dilakukan sebelum Iduladha, yakni sebagai berikut:  
+Ada tiga jenis, puasa sunnah yang bisa dilakukan sebelum Iduladha, yakni sebagai berikut:   
 Amalan Puasa Sunnah Sebelum Iduladha  
+
 Puasa Dzulhijjah  
-Salah satu puasa sunnah sebelum Iduladha adalah puasa Dzulhijjah. Puasa ini dilaksanakan pada sembilan hari pertama bulan Dzulhijjah.  
-Puasa Dzulhijjah dimulai sejak tanggal 1 hingga 9 Dzulhijjah setiap tahunnya. Sementara itu, saat Iduladha dan hari tasyrik, justru diharamkan untuk berpuasa.  
+Salah satu puasa sunnah sebelum Iduladha adalah puasa Dzulhijjah.  
+Puasa ini dilaksanakan pada sembilan hari pertama bulan Dzulhijjah.  
+Puasa Dzulhijjah dimulai sejak tanggal 1 hingga 9 Dzulhijjah setiap tahunnya.  
+Sementara itu, saat Iduladha dan hari tasyrik, justru diharamkan untuk berpuasa.  
 
 Bacaan Niat Puasa Dzulhijjah  
 Nawaitu shouma syahri dzulhijjah sunnatan lillahi ta ala  
@@ -48,8 +51,8 @@ Bacaan Niat Puasa Arafah
 “Nawaitu shauma arafata sunnatan lillahi ta’ala.”  
 Artinya: “Saya niat puasa sunnah Arafah karena Allah ta’ala.” Niat ini dibaca pada malam hari sebelum masuk waktu subuh, atau boleh juga dibaca di siang hari sebelum tergelincir matahari (waktu zuhur) jika lupa berniat di malam hari.   
 
-Oya, saya menulis ini dalam pemahaman belajar dan menyadur dari berbagai referensi yang saya baca.  
-Terimakasih berkenan membaca.
+Oya, tulisan ini menyadur dari berbagai sumber referensi.  
+Terimakasih untuk membaca.
 
 Free hosting with GitHub Pages.  
 GitHub Pages is powered by Jekyll, so you can easily deploy your site using GitHub for free—custom domain name and all.
