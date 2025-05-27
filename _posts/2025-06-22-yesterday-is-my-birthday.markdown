@@ -13,8 +13,8 @@ Publishing a patch release to restore existing behavior around defining front ma
 
 ![Topi Y!](/topi-yahoo.jpeg "Topi Yahoo.")
 
-Free hosting with GitHub Pages
-Sick of dealing with hosting companies? GitHub Pages is powered by Jekyll, so you can easily deploy your site using GitHub for free—custom domain name and all.
+Free hosting with GitHub Pages.  
+GitHub Pages is powered by Jekyll, so you can easily deploy your site using GitHub for free—custom domain name and all.
 
 Learn more about GitHub Pages →
 
