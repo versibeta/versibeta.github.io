@@ -9,7 +9,8 @@ image: https://versibeta.github.io/eid-moon.jpg
 
 Penampakan hilal Idul Adha 2025  
 LANGSUNG:  
-Tampilan foto dalam mode tempel mengikuti URL (Paste URL: http://versibeta.github.io)  
+Tampilan foto dalam mode tempel URL:  
+https://versibeta.github.io/kalender/islam/2025/05/27/sunnah-fasting-before-eid-al-adha.html 
 Umat Islam di Arab Saudi, UEA, AS, Inggris, dan Eropa bersiap melihat hilal Dzulhijjah 1446 H.  
 saat ini untuk menuntaskan tanggal haji dan Idul Adha/Idul Bakri/Idul Zuha.    
 ![Puasa!](/eid-mubarak.jpeg "eid mubarak")  
