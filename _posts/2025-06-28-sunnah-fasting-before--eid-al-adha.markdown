@@ -16,7 +16,19 @@ saat ini untuk menuntaskan tanggal haji dan Idul Adha/Idul Bakri/Idul Zuha.
 ![Puasa!](/eid-mubarak.jpeg "eid mubarak") 
 
 Puasa Sunnah sebelum Iduladha  
-Menjelang Iduladha, umat Islam dianjurkan melaksanakan puasa sunnah. Puasa ini memiliki banyak keutamaan dan menjadi amalan yang sangat dianjurkan.vDalam Islam, ada banyak cara yang bisa dilakukan untuk memperoleh pahala. Termasuk puasa sunnah sebelum Iduladha.
+Menjelang Iduladha, umat Islam dianjurkan melaksanakan puasa sunnah. Puasa ini memiliki banyak keutamaan dan menjadi amalan yang sangat dianjurkan.  
+Dalam Islam, ada banyak cara yang bisa dilakukan untuk memperoleh pahala. Termasuk puasa sunnah sebelum Iduladha.  
+__TGL 28 Mei s/d 05 Juni 2025__ disunnahkan puasa dan perbanyak amal shaleh karena pahalanya akan dilipatgandakan.  
+
+1 Dzulhijah >> 28 Mei 2025 Rabu  
+2 Dzulhijah >> 29 Mei 2025 Kamis  
+3 Dzulhijah >> 30 Mei 2025 Jumat  
+4 Dzulhijah >> 31 Mei 2025 Sabtu  
+5 Dzulhijah >> 01 Juni 2025 Minggu  
+6 Dzulhijah >> 02 Juni 2025 Senin  
+7 Dzulhijah >> 03 Juni 2025 Selasa   
+8 Dzulhijah >> 04 Juni 2025 Rabu  
+9 Dzulhijah >> 05 Juni 2025 Kamis   
 
 Ada tiga jenis, puasa sunnah yang bisa dilakukan sebelum Iduladha, yakni sebagai berikut:   
 Amalan Puasa Sunnah Sebelum Iduladha  
@@ -72,6 +84,12 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
