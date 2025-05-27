@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Today -sunnah-fasting-before--eid-al-adha.markdown"
-date:   2025-05-23 08:07:11 +0700
-categories: jekyll update
-image: https://versibeta.github.io/tobeni.jpg
+title:  "Hari pertama bulan Zulhijah"
+date:   2025-05-28 00:22:05 +0700
+categories: kalender islam
+image: https://versibeta.github.io/eid-moon.jpg
 ---
 **Sorotan Penampakan Bulan di Hari Raya Idul Adha 2025**
 Penampakan hilal Idul Adha 2025 LANGSUNG: Umat Islam di Arab Saudi, UEA, AS, Inggris, dan Eropa bersiap melihat hilal Dzulhijjah 1446 H saat ini untuk menuntaskan tanggal haji dan Idul Adha/Idul Bakri/Idul Zuha. (Foto Arsip)  
