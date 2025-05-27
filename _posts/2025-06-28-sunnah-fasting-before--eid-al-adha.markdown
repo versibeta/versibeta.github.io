@@ -8,10 +8,10 @@ image: https://versibeta.github.io/eid-moon.jpg
 **Sorotan Penampakan Bulan di Hari Raya Idul Adha 2025**
 
 Penampakan hilal Idul Adha 2025  
-langsung:  
+LANGSUNG:  
+Tampilan foto dalam mode tempel mengikuti URL (Paste URL: http://versibeta.github.io)  
 Umat Islam di Arab Saudi, UEA, AS, Inggris, dan Eropa bersiap melihat hilal Dzulhijjah 1446 H.  
-saat ini untuk menuntaskan tanggal haji dan Idul Adha/Idul Bakri/Idul Zuha.  
-(Paste URL: http://versibeta.github.io)  
+saat ini untuk menuntaskan tanggal haji dan Idul Adha/Idul Bakri/Idul Zuha.    
 ![Puasa!](/eid-mubarak.jpeg "eid mubarak")  
 
 Free hosting with GitHub Pages.  
