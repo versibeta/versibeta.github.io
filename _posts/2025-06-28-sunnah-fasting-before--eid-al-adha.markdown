@@ -7,7 +7,7 @@ image: https://versibeta.github.io/eid-moon.jpg
 ---
 **Sorotan Penampakan Bulan di Hari Raya Idul Adha 2025**
 Penampakan hilal Idul Adha 2025 LANGSUNG: Umat Islam di Arab Saudi, UEA, AS, Inggris, dan Eropa bersiap melihat hilal Dzulhijjah 1446 H saat ini untuk menuntaskan tanggal haji dan Idul Adha/Idul Bakri/Idul Zuha. (Foto Arsip)  
-![Topi Y!](/topi-yahoo.jpeg "Topi Yahoo.")  
+![Topi Y!](/eid-moon.jpeg "eid mubarak.")  
 
 
 
