@@ -8,8 +8,8 @@ image: https://versibeta.github.io/eid-moon.jpg
 **Sorotan Penampakan Bulan di Hari Raya Idul Adha 2025**
 
 Penampakan hilal Idul Adha 2025  
-LANGSUNG:  
-Tampilan foto dalam mode tempel URL:  
+__LANGSUNG:__    
+Tampilan foto dalam mode __tempel URL__:  
 https://versibeta.github.io/kalender/islam/2025/05/27/sunnah-fasting-before-eid-al-adha.html 
 Umat Islam di Arab Saudi, UEA, AS, Inggris, dan Eropa bersiap melihat hilal Dzulhijjah 1446 H.  
 saat ini untuk menuntaskan tanggal haji dan Idul Adha/Idul Bakri/Idul Zuha.    
@@ -33,7 +33,7 @@ __TGL 28 Mei s/d 05 Juni 2025__ disunnahkan puasa dan perbanyak amal shaleh kare
 Ada tiga jenis, puasa sunnah yang bisa dilakukan sebelum Iduladha, yakni sebagai berikut:   
 Amalan Puasa Sunnah Sebelum Iduladha  
 
-Puasa Dzulhijjah  
+__Puasa Dzulhijjah__  
 Salah satu puasa sunnah sebelum Iduladha adalah puasa Dzulhijjah.  
 Puasa ini dilaksanakan pada sembilan hari pertama bulan Dzulhijjah.  
 Puasa Dzulhijjah dimulai sejak tanggal 1 hingga 9 Dzulhijjah setiap tahunnya.  
@@ -43,7 +43,7 @@ Bacaan Niat Puasa Dzulhijjah
 Nawaitu shouma syahri dzulhijjah sunnatan lillahi ta ala  
 Artinya: Saya niat puasa sunnah bulan Dzulhijjah karena Allah Ta ala.  
 
-Puasa Tarwiyah  
+__Puasa Tarwiyah__  
 Selanjutnya ada puasa Tarwiyah yang dilaksanakan tepat pada 8 Dzulhijjah. keutamaan dari puasa ini adalah bisa menghapus dosa selama satu tahun.  
 Puasa ini disunnahkan bagi umat muslim yang tidak melaksanakan ibadah haji, sebab pada hari tersebut jamaah haji sedang melaksanakan puncak ibadah haji, yaitu Tarwiyah.  
 
@@ -55,7 +55,7 @@ Bacaan Niat Puasa Tarwiyah
 Nawaitu shauma tarwiyata sunnatan lillâhi ta‘âlâ.  
 Artinya: “Saya niat puasa sunnah Tarwiyah karena Allah ta’âlâ.”
 
-Puasa Arafah  
+__Puasa Arafah__    
 Kemudian, ada puasa Arafah, yaitu amalan berpuasa di tanggal 9 Dzulhijjah. Sama seperti sebelumnya, puasa ini disunnahkan bagi umat muslim yang nggak melaksanakan ibadah Haji.  
 Sementara itu, keutamaan dari puasa arafah adalah dapat menghapus dosa selama 2 tahun.  
 “Puasa hari Arafah dapat menghapuskan dosa dua tahun yang telah lepas dan akan datang, dan puasa Asyura (tanggal 10 Muharram) menghapuskan dosa setahun yang lepas” (HR Muslim).  
@@ -63,8 +63,8 @@ Bacaan Niat Puasa Arafah
 “Nawaitu shauma arafata sunnatan lillahi ta’ala.”  
 Artinya: “Saya niat puasa sunnah Arafah karena Allah ta’ala.” Niat ini dibaca pada malam hari sebelum masuk waktu subuh, atau boleh juga dibaca di siang hari sebelum tergelincir matahari (waktu zuhur) jika lupa berniat di malam hari.   
 
-Oya, tulisan ini menyadur dari berbagai sumber referensi.  
-Terimakasih untuk membaca.
+Oya, tulisan ini menyadur dari berbagai sumber referensi.    
+Terimakasih untuk membaca.  
 
 Free hosting with GitHub Pages.  
 GitHub Pages is powered by Jekyll, so you can easily deploy your site using GitHub for free—custom domain name and all.
