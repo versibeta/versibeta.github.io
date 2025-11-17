@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post—del
 title:  "Hari pertama bulan Zulhijah"
 date:   2025-05-28 00:22:05 +0700
 categories: kalender islam
